@@ -1,2 +1,20 @@
-p { background-color: red; }
-
+p  {
+   background-color: Orange;
+   }
+p  {
+   color:DarkRed;
+   }
+h1 {
+   color:Navy; 
+   }
+h2 {color:DarkRed;
+   }
+ul {
+   color:Fuchsia;
+   }
+h3 {
+   color:DarkRed;
+   }
+.jatkuu {
+   color:Red;
+   }
