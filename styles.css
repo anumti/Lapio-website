@@ -1,0 +1,21 @@
+.box1  {
+  position: relative;
+  widht:200px;
+  height:100px;
+  background-color:Tomato; 
+}
+.box2  {
+  position: relative;
+  left:250px;
+  widht:200px;
+  height:100px;
+  background-color:Yellow; 
+}
+.box3  {
+  position: relative;
+  left:500px;
+  widht:200px;
+  height:100px;
+  background-color:LimeGreen; 
+}
+
