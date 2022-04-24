@@ -1,21 +1,39 @@
 .box1  {
   position: relative;
-  widht:200px;
+  width:200px;
   height:100px;
-  background-color:Tomato; 
+  background-color:Tomato;
+  color:Navy;
+  text-transform: uppercase;
+  text-align: center;
+  border-style: solid;
+  border-color:LimeGreen;
+  border-width:2px 
 }
 .box2  {
   position: relative;
   left:250px;
-  widht:200px;
+  width:200px;
   height:100px;
   background-color:Yellow; 
+  color:Navy;
+  text-transform: uppercase;
+  text-align: center;
+  border-style: solid;
+  border-color:Tomato;
+  border-width:2px
 }
 .box3  {
   position: relative;
   left:500px;
-  widht:200px;
+  width:200px;
   height:100px;
-  background-color:LimeGreen; 
+  background-color:LimeGreen;
+  color:Navy; 
+  text-transform: uppercase;
+  text-align: center;
+  border-style: solid;
+  border-color:LimeGreen;
+  border-width:2px
 }
 
